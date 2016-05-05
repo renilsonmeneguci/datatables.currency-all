@@ -16,7 +16,7 @@ jQuery.extend( jQuery.fn.dataTableExt.oSort, {
     "all-currency-asc": function(a,b) {
       return ((a < b) ? -1 : ((a > b) ? 1 : 0));
     },
-    "ball-currency-desc": function(a,b) {
+    "all-currency-desc": function(a,b) {
       return ((a < b) ? 1 : ((a > b) ? -1 : 0));
     }
 });

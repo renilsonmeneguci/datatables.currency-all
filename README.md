@@ -14,7 +14,7 @@ $('#example').dataTable({
 ```
 Where ```{"sType": "all-currency", "aTargets": [1]}``` refers to the column of the currency. Recalling that the count starts from scratch ```aTargets": [0]}```
 
-Live example in [JSFiddle](https://jsfiddle.net/randrade/2c5yuLxn/)
+Live example in [JSFiddle](https://jsfiddle.net/2c5yuLxn/2/).
 
 #Português
 Este script é destinado a resolver o problema de ordenação de moedas com o [datatables](datatables.net).
@@ -31,4 +31,4 @@ $('#example').dataTable({
 ```
 Onde ```{"sType": "all-currency", "aTargets": [1]}``` é referente à coluna da moeda. Lembrando que a contagem se inicia do ```aTargets": [0]}```.
 
-Exemplo online no [JSFiddle](https://jsfiddle.net/randrade/5252raq7/)
+Exemplo online no [JSFiddle](https://jsfiddle.net/5252raq7/2/).
